@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on a Deep Learning research topic.
+ 🔭 I’m currently working on a Deep Learning research topic with my school' research team (De Vinci Research Center – DVRC).
  
  ...
 
